@@ -1,0 +1,109 @@
+{
+  "stories": [
+    {
+      "name": "Vlad",
+      "image": "assets/avatars/Avatar_1.png",
+      "pages": [
+        {
+          "link": "assets/content/11.jpg"
+        },
+        {
+          "link": "assets/content/7.jpg"
+        },
+        {
+          "link": "assets/content/12.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Stas",
+      "image": "assets/avatars/Avatar_2.png",
+      "pages": [
+        {
+          "link": "assets/content/11.jpg"
+        },
+        {
+          "link": "assets/content/7.jpg"
+        },
+        {
+          "link": "assets/content/12.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Jenua",
+      "image": "assets/avatars/Avatar_3.png",
+      "story": [
+        {
+          "link": "assets/content/11.jpg"
+        },
+        {
+          "link": "assets/content/7.jpg"
+        },
+        {
+          "link": "assets/content/12.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Egor",
+      "image": "assets/avatars/Avatar_4.png",
+      "pages": [
+        {
+          "link": "assets/content/11.jpg"
+        },
+        {
+          "link": "assets/content/7.jpg"
+        },
+        {
+          "link": "assets/content/12.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Vasya",
+      "image": "assets/avatars/Avatar_5.png",
+      "pages": [
+        {
+          "link": "assets/content/11.jpg"
+        },
+        {
+          "link": "assets/content/7.jpg"
+        },
+        {
+          "link": "assets/content/12.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Egor",
+      "image": "assets/avatars/Avatar_6.png",
+      "pages": [
+        {
+          "link": "assets/content/11.jpg"
+        },
+        {
+          "link": "assets/content/7.jpg"
+        },
+        {
+          "link": "assets/content/12.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Egor",
+      "image": "assets/avatars/Avatar_7.png",
+      "pages": [
+        {
+          "link": "assets/content/11.jpg"
+        },
+        {
+          "link": "assets/content/7.jpg"
+        },
+        {
+          "link": "assets/content/12.jpg"
+        }
+      ]
+    }
+  ]
+}
