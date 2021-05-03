@@ -66,7 +66,7 @@ class _HomeScreenState extends State<HomeScreen> {
                                       decoration: BoxDecoration(
                                           shape: BoxShape.circle,
                                           border: Border.all(
-                                            color: Colors.green,
+                                            color: Colors.orangeAccent,
                                             width: 4,
                                           )),
                                     ),
@@ -82,12 +82,13 @@ class _HomeScreenState extends State<HomeScreen> {
                                 ],
                               ),
                               onTap: () {
-                                print(snapshot.data[index]);
                                 Navigator.push(
                                   context,
                                   MaterialPageRoute(
                                       builder: (context) => StoryScreen(
-                                          story: snapshot.data[index])),
+                                            idx: index,
+                                            data: snapshot.data,
+                                          )),
                                 );
                               },
                             ));

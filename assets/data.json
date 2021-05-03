@@ -20,43 +20,49 @@
       "image": "assets/avatars/Avatar_2.png",
       "pages": [
         {
-          "link": "assets/content/11.jpg"
+          "link": "assets/content/3.jpg"
         },
         {
-          "link": "assets/content/7.jpg"
+          "link": "assets/content/17.jpg"
         },
         {
-          "link": "assets/content/12.jpg"
+          "link": "assets/content/13.jpg"
         }
       ]
     },
     {
       "name": "Jenua",
       "image": "assets/avatars/Avatar_3.png",
-      "story": [
+      "pages": [
         {
-          "link": "assets/content/11.jpg"
+          "link": "assets/content/3.jpg"
+        },
+        {
+          "link": "assets/content/20.jpg"
+        },
+        {
+          "link": "assets/content/13.jpg"
+        },
+        {
+          "link": "assets/content/17.jpg"
         },
         {
           "link": "assets/content/7.jpg"
-        },
-        {
-          "link": "assets/content/12.jpg"
         }
       ]
     },
     {
-      "name": "Egor",
+      "name": "User4",
       "image": "assets/avatars/Avatar_4.png",
       "pages": [
         {
-          "link": "assets/content/11.jpg"
-        },
-        {
-          "link": "assets/content/7.jpg"
+          "link": "assets/content/20.jpg"
         },
         {
           "link": "assets/content/12.jpg"
+        },
+        {
+          "link": "assets/content/13.jpg"
         }
       ]
     },
@@ -65,43 +71,43 @@
       "image": "assets/avatars/Avatar_5.png",
       "pages": [
         {
-          "link": "assets/content/11.jpg"
+          "link": "assets/content/17.jpg"
         },
         {
           "link": "assets/content/7.jpg"
         },
         {
-          "link": "assets/content/12.jpg"
+          "link": "assets/content/3.jpg"
         }
       ]
     },
     {
-      "name": "Egor",
+      "name": "Rudenua32",
       "image": "assets/avatars/Avatar_6.png",
       "pages": [
         {
-          "link": "assets/content/11.jpg"
+          "link": "assets/content/13.jpg"
+        },
+        {
+          "link": "assets/content/20.jpg"
         },
         {
           "link": "assets/content/7.jpg"
-        },
-        {
-          "link": "assets/content/12.jpg"
         }
       ]
     },
     {
-      "name": "Egor",
+      "name": "Gem4",
       "image": "assets/avatars/Avatar_7.png",
       "pages": [
         {
-          "link": "assets/content/11.jpg"
+          "link": "assets/content/17.jpg"
         },
         {
-          "link": "assets/content/7.jpg"
+          "link": "assets/content/3.jpg"
         },
         {
-          "link": "assets/content/12.jpg"
+          "link": "assets/content/13.jpg"
         }
       ]
     }
